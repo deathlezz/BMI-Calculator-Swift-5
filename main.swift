@@ -4,7 +4,6 @@
 //  Created by deathlezz on 08/05/2021.
 //
 
-
 import Foundation            //  Rounding numbers won't work without this
 
 print("* Welcome to BMI Calculator *")
