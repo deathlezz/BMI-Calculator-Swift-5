@@ -1,5 +1,5 @@
 //
-//  BMI Calculator formula
+//  BMI Calculator (formula)
 //
 //  Created by deathlezz on 1/08/2021.
 //
